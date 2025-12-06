@@ -5,8 +5,7 @@
 
 This is a Python project I built to give **quick, game-specific comments on chess moves**. The main goal is to understand how a move affects the position in this game without giving long, generic explanations.
 
-<img width="733" height="686" alt="image" src="https://github.com/user-attachments/assets/c4d440fc-bc04-4cb1-8d3b-c566067a2db2" />
-<img width="729" height="658" alt="image" src="https://github.com/user-attachments/assets/985e537c-d897-4c1b-aedf-3c602c402b02" />
+<img width="366" height="343" alt="image" src="https://github.com/user-attachments/assets/c4d440fc-bc04-4cb1-8d3b-c566067a2db2" />
 
 
 ---

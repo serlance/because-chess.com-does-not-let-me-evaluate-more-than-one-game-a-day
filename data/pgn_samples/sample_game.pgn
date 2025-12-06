@@ -1,0 +1,46 @@
+[Event "Sample Game"]
+[Site "Local"]
+[Date "2025.12.06"]
+[Round "1"]
+[White "WhitePlayer"]
+[Black "BlackPlayer"]
+[Result "1-0"]
+
+1. e4 e5
+2. Nf3 Nc6
+3. Bb5 a6
+4. Ba4 Nf6
+5. O-O Be7
+6. Re1 b5
+7. Bb3 d6
+8. c3 O-O
+9. h3 Nb8
+10. d4 Nbd7
+11. c4 c6
+12. Nc3 Qc7
+13. a3 Bb7
+14. Ba2 Rfe8
+15. Be3 Bf8
+16. Rc1 exd4
+17. Nxd4 c5
+18. Nf5 Nxe4
+19. Nxe4 Rxe4
+20. cxb5 axb5
+21. b4 c4
+22. Bb1 Ree8
+23. Qg4 Ne5
+24. Qg3 Rxa3
+25. Nh6+ Kh8
+26. f4 gxh6
+27. fxe5 dxe5
+28. Qh4 Qc6
+29. Qg3 Bxb4
+30. Re2 Rg8
+31. Qxe5+ f6
+32. Qf5 Rg7
+33. Bxh6 Rf7
+34. Be4 Qc8
+35. Qxc8+ Bxc8
+36. Bd5 Rc7
+37. Re8+ Bf8
+38. Rxf8# 1-0

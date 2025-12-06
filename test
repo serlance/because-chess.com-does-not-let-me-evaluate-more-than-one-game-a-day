@@ -1,0 +1,5 @@
+from llama_cpp import Llama
+
+LLAMA_MODEL_PATH = r"C:\Projects\models\ggml-model-q4_0.bin"
+llm = Llama(model_path=LLAMA_MODEL_PATH)
+print("LLaMA loaded successfully!")

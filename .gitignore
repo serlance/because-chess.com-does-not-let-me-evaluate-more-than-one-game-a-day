@@ -1,0 +1,39 @@
+# Python virtual environment
+.venv/
+env/
+venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE / Editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# LLaMA / Stockfish models (optional if you want to download separately)
+models/
+stockfish/
+*.bin
+*.pt
+
+# Log / temporary files
+*.log
+
+# Stockfish binary
+data/stockfish/
+stockfish.exe
+stockfish/
+
+# Do not track chess piece images
+images/
+
+
